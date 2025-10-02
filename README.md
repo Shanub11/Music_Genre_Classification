@@ -1,4 +1,4 @@
-🎵 Music Genre Classification using CNN
+**🎵 Music Genre Classification using CNN**
 
 This project implements a Convolutional Neural Network (CNN) to classify music into genres using the GTZAN dataset. The dataset contains 1000 audio tracks, each 30 seconds long, categorized into 10 genres.
 
